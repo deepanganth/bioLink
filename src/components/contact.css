@@ -1,0 +1,22 @@
+.m-c-icons{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+
+}
+.c-icons{
+    background-color: rgba(0, 0, 0, 0.44);
+    border-radius: 5px;
+    width: 50%;
+    height: 60px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    box-shadow: rgba(100, 100, 111, 0.197) 0px 7px 29px 0px;
+}
+.c-icons img{
+    width: 40px;
+    height: 40px;
+    margin-left: 1rem;
+}
